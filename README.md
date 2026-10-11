@@ -24,7 +24,7 @@ The FastAPI lifespan starts one background feed poller, performs an initial poll
 
 ## Dashboard and API
 
-Open `http://127.0.0.1:8000/` for the dashboard. It displays live/degraded status, fixture/cached mode, feed health, last successful poll, next poll, latest publication age, article/signal totals, new articles from the latest poll, scores, counts, categories, local publication times, and publisher links. Use **Refresh now** to request a serialized manual refresh.
+Open `http://127.0.0.1:8000/` for the dashboard. It displays live/degraded status, live/cached/fixture/unavailable mode, per-feed health, last successful poll, next poll, a stale-content flag (publication data older than 24 hours), article/signal totals, new articles from the latest poll, scores, counts, categories, local publication timestamps, and publisher links. Use **Refresh now** to request a serialized manual refresh.
 
 - `GET /health` — process health.
 - `GET /api/status` — data mode, poll timestamps, next scheduled poll, interval, configured/healthy/failed feed counts, per-feed errors/health, new and changed article counts, total stored articles, signal count, newest publication time, and stale flag.
