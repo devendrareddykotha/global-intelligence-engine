@@ -1,0 +1,580 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:nyt="http://www.nytimes.com/namespaces/rss/2.0" version="2.0">
+  <channel>
+    <title>NYT &gt; Top Stories</title>
+    <link>https://www.nytimes.com</link>
+    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml" rel="self" type="application/rss+xml"></atom:link>
+    <description></description>
+    <language>en-us</language>
+    <copyright>Copyright 2026 The New York Times Company</copyright>
+    <lastBuildDate>Tue, 03 Mar 2026 05:12:27 +0000</lastBuildDate>
+    <pubDate>Tue, 03 Mar 2026 05:05:09 +0000</pubDate>
+    <image>
+      <title>NYT &gt; Top Stories</title>
+      <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
+      <link>https://www.nytimes.com</link>
+    </image>
+    <item>
+      <title>Trump Embraces U.S. Military Power After Years of Caution</title>
+      <link>https://www.nytimes.com/2026/03/02/us/politics/trump-military-power.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/03/02/us/politics/trump-military-power.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/03/02/us/politics/trump-military-power.html" rel="standout"></atom:link>
+      <description>The wars in Afghanistan and Iraq offered a stark lesson in the limits of military force. The Iran attacks suggest an era of postwar wariness is over.</description>
+      <dc:creator>Greg Jaffe</dc:creator>
+      <pubDate>Tue, 03 Mar 2026 01:26:00 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Afghanistan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iraq</category>
+      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/03/02/multimedia/02dc-force-tqzv/02dc-force-tqzv-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Eric Lee for The New York Times</media:credit>
+      <media:description>President Trump in Corpus Christi, Texas, last week. His sudden embrace of U.S. military power is a stunning reversal. </media:description>
+    </item>
+    <item>
+      <title>‘Pray We Make It Through the Night’: Iran’s Capital Under Siege</title>
+      <link>https://www.nytimes.com/2026/03/02/world/middleeast/iran-tehran-strikes.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/03/02/world/middleeast/iran-tehran-strikes.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/03/02/world/middleeast/iran-tehran-strikes.html" rel="standout"></atom:link>
+      <description>Many residents of Tehran managed to get out of town when the U.S. and Israel attack began, but others who could not described living under bombardment.</description>
+      <dc:creator>Farnaz Fassihi and Arash Khamooshi</dc:creator>
+      <pubDate>Tue, 03 Mar 2026 05:05:09 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Tehran (Iran)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Destruction of Cultural Antiquities and Heritage</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Rubio, Marco</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/04/02/multimedia/02int-tehran-mood-cmvz-promo/02int-tehran-mood-cmvz-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Arash Khamooshi for The New York Times</media:credit>
+      <media:description>People are standing behind a yellow line after a police station on Niloufar street was hit by US-Israel attacks and damaged the next door buildings in Tehran on Monday.</media:description>
+    </item>
+    <item>
+      <title>U.S. Sends More Troops to the Mideast as Iran War Expands</title>
+      <link>https://www.nytimes.com/2026/03/02/us/politics/trump-administration-troops-iran-war.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/03/02/us/politics/trump-administration-troops-iran-war.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/03/02/us/politics/trump-administration-troops-iran-war.html" rel="standout"></atom:link>
+      <description>Gen. Dan Caine, the chairman of the Joint Chiefs of Staff, acknowledged the possibility of an extended campaign, as the military announced that six U.S. service members had been killed so far.</description>
+      <dc:creator>Helene Cooper and Eric Schmitt</dc:creator>
+      <pubDate>Tue, 03 Mar 2026 02:40:53 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Middle East</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Hegseth, Pete</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/03/02/multimedia/02dc-military-lhbz/02dc-military-lhbz-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Mark Schiefelbein/Associated Press</media:credit>
+      <media:description>Defense Secretary Pete Hegseth and Gen. Dan Caine, the chairman of the Joint Chiefs of Staff, during the Trump administration’s first news conference on the war in Iran, on Monday.</media:description>
+    </item>
+    <item>
+      <title>Texas Senate Candidates Make Final Arguments Before Primary Elections</title>
+      <link>https://www.nytimes.com/2026/03/02/us/elections/texas-primary-senate-midterms-argument.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/03/02/us/elections/texas-primary-senate-midterms-argument.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/03/02/us/elections/texas-primary-senate-midterms-argument.html" rel="standout"></atom:link>
+      <description>The Republicans John Cornyn and Ken Paxton — and the Democrats Jasmine Crockett and James Talarico — are battling in bitter and expensive races.</description>
+      <dc:creator>Jennifer Medina</dc:creator>
+      <pubDate>Tue, 03 Mar 2026 01:49:37 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Cornyn, John</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Crockett, Jasmine</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Paxton, Ken</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Talarico, James</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Texas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections, Senate</category>
+      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/03/02/multimedia/02midterms-final-arguments-cornyn-bkcp/02midterms-final-arguments-cornyn-bkcp-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Jordan Vonderhaar for The New York Times</media:credit>
+      <media:description>Senator John Cornyn greeted by supporters at a campaign event in Schertz, Texas, on Monday.</media:description>
+    </item>
+    <item>
+      <title>In Republican Win, Supreme Court Retains G.O.P. District in New York</title>
+      <link>https://www.nytimes.com/2026/03/02/us/politics/supreme-court-malliotakis-new-york.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/03/02/us/politics/supreme-court-malliotakis-new-york.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/03/02/us/politics/supreme-court-malliotakis-new-york.html" rel="standout"></atom:link>
+      <description>In an emergency ruling, the justices preserved the district of a Republican congresswoman, despite a lower-court ruling that it illegally diluted the power of minority voters.</description>
+      <dc:creator>Abbie VanSickle and Grace Ashford</dc:creator>
+      <pubDate>Tue, 03 Mar 2026 04:30:00 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Decisions and Verdicts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Redistricting and Reapportionment</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Minorities</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Race and Ethnicity</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections, Courts and the Judiciary</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections, House of Representatives</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Suits and Litigation (Civil)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Constitution (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Democratic Party</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">House of Representatives</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Republican Party</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Supreme Court (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Malliotakis, Nicole</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Rose, Max (1986- )</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/03/02/multimedia/02dc-scotus-newyork-lkgb/02dc-scotus-newyork-lkgb-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Adam Gray for The New York Times</media:credit>
+      <media:description>A voter at a polling center on Staten Island in October.</media:description>
+    </item>
+    <item>
+      <title>Can These Democrats Make Combative Centrism Happen for 2028 Election?</title>
+      <link>https://www.nytimes.com/2026/03/02/us/politics/democrats-centrism-2028-election.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/03/02/us/politics/democrats-centrism-2028-election.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/03/02/us/politics/democrats-centrism-2028-election.html" rel="standout"></atom:link>
+      <description>Third Way, the moderate Democratic advocacy group and think tank, has an expansive and expensive plan to shape the 2028 presidential campaign.</description>
+      <dc:creator>Katie Glueck</dc:creator>
+      <pubDate>Tue, 03 Mar 2026 01:34:27 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Presidential Election of 2028</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Primaries and Caucuses</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Third Way</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Democratic Party</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Emanuel, Rahm</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Gallego, Ruben (1979- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/03/02/multimedia/02pol-on-politics-third-way-pclw/02pol-on-politics-third-way-pclw-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Meg Kinnard/Associated Press</media:credit>
+      <media:description>Jon Cowan, left, president of the group Third Way, and Jim Messina, a Democratic strategist.</media:description>
+    </item>
+    <item>
+      <title>Trump Administration Abandons Efforts to Impose Executive Orders on Law Firms</title>
+      <link>https://www.nytimes.com/2026/03/02/us/politics/trump-executive-orders-law-firms.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/03/02/us/politics/trump-executive-orders-law-firms.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/03/02/us/politics/trump-executive-orders-law-firms.html" rel="standout"></atom:link>
+      <description>The move amounts to a surrender in a clash that has led many law firms to submit to the president rather than face the threat of his executive orders.</description>
+      <dc:creator>Jonah E. Bromwich and Michael S. Schmidt</dc:creator>
+      <pubDate>Tue, 03 Mar 2026 01:01:45 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Legal Profession</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Executive Orders and Memorandums</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Presidential Power (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Equal Employment Opportunity Commission</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Covington &amp; Burling</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Paul Weiss Rifkind Wharton &amp; Garrison</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Perkins Coie LLP</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Susman Godfrey LLP</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Jenner &amp; Block</category>
+      <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/03/02/multimedia/dc-lawfirms-thqb/dc-lawfirms-thqb-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Eric Lee for The New York Times</media:credit>
+      <media:description>The Justice Department told the U.S. Court of Appeals for the District of Columbia on Monday that it was no longer interested in pursuing the cases contesting executive orders barring law firms from government business.</media:description>
+    </item>
+    <item>
+      <title>OpenAI Amends A.I. Deal With the Pentagon</title>
+      <link>https://www.nytimes.com/2026/03/02/technology/openai-pentagon-deal-amended-surveillance.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/03/02/technology/openai-pentagon-deal-amended-surveillance.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/03/02/technology/openai-pentagon-deal-amended-surveillance.html" rel="standout"></atom:link>
+      <description>The new pact includes additional protections to prevent the use of the company’s technology for mass surveillance of Americans.</description>
+      <dc:creator>Cade Metz and Julian E. Barnes</dc:creator>
+      <pubDate>Tue, 03 Mar 2026 03:57:04 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">OpenAI Labs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Defense Department</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Altman, Samuel H</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Hegseth, Pete</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Surveillance of Citizens by Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense Contracts</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/03/02/multimedia/02biz-openai-deal-fjlc/02biz-openai-deal-fjlc-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Haiyun Jiang/The New York Times</media:credit>
+      <media:description>“It’s critical to protect the civil liberties of Americans, and there was so much focus on this, that we wanted to make this point especially clear,” OpenAI’s chief executive, Sam Altman, center, wrote on social media.</media:description>
+    </item>
+    <item>
+      <title>What Is Trump’s Neck Rash? His Doctor Declines to Explain.</title>
+      <link>https://www.nytimes.com/2026/03/02/us/politics/trump-rash-neck.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/03/02/us/politics/trump-rash-neck.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/03/02/us/politics/trump-rash-neck.html" rel="standout"></atom:link>
+      <description>President Trump’s physician did not explain what the skin condition was or what medication he was using to treat it.</description>
+      <dc:creator>Chris Cameron</dc:creator>
+      <pubDate>Mon, 02 Mar 2026 22:55:17 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Doctors</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Skin</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/03/02/multimedia/02dc-trump-rash-chvj/02dc-trump-rash-chvj-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Doug Mills/The New York Times</media:credit>
+      <media:description>President Trump at the White House on Monday.</media:description>
+    </item>
+    <item>
+      <title>Trump Says He Will End Boycott of White House Correspondents’ Dinner</title>
+      <link>https://www.nytimes.com/2026/03/02/us/politics/trump-white-house-correspondents-dinner.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/03/02/us/politics/trump-white-house-correspondents-dinner.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/03/02/us/politics/trump-white-house-correspondents-dinner.html" rel="standout"></atom:link>
+      <description>The mentalist Oz Pearlman is this year’s speaker. “Hopefully, it will be something very Special,” the president wrote on Truth Social.</description>
+      <dc:creator>Shawn McCreesh and Michael M. Grynbaum</dc:creator>
+      <pubDate>Tue, 03 Mar 2026 01:33:43 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Comedy and Humor</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Television</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">White House Correspondents Assn</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">News and News Media</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/03/02/multimedia/02DC-trump-whcd-gcmf/02DC-trump-whcd-gcmf-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Haiyun Jiang for The New York Times</media:credit>
+      <media:description>The Marine Corps Band playing at the White House Correspondents’ Dinner in Washington in 2024.</media:description>
+    </item>
+    <item>
+      <title>Supreme Court Sides With Religious Parents, Blocking California’s Trans Student Policy</title>
+      <link>https://www.nytimes.com/2026/03/02/us/politics/supreme-court-california-trans-students.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/03/02/us/politics/supreme-court-california-trans-students.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/03/02/us/politics/supreme-court-california-trans-students.html" rel="standout"></atom:link>
+      <description>Christian teachers and parents challenged the state’s policies, which they say require schools to hide students’ transgender status from their parents.</description>
+      <dc:creator>Ann E. Marimow</dc:creator>
+      <pubDate>Tue, 03 Mar 2026 02:17:42 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Education (K-12)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Parenting</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Transgender</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Homosexuality and Bisexuality</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Decisions and Verdicts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Parental Rights Movement</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Gender</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Law and Legislation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Supreme Court (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bonta, Rob (1972- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Conservatism (US Politics)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">California</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/01/23/multimedia/00dc-scotus-parentsrights-zqjk/00dc-scotus-parentsrights-zqjk-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Tierney L. Cross/The New York Times</media:credit>
+      <media:description>A protester holding a transgender flag outside the Supreme Court last month.</media:description>
+    </item>
+    <item>
+      <title>N.Y. Attorney General Orders Hospital to Resume Youth Transgender Care</title>
+      <link>https://www.nytimes.com/2026/03/02/nyregion/transgender-youth-nyu-langone-attorney-general.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/03/02/nyregion/transgender-youth-nyu-langone-attorney-general.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/03/02/nyregion/transgender-youth-nyu-langone-attorney-general.html" rel="standout"></atom:link>
+      <description>NYU Langone Health had stopped providing puberty-blocking medication and hormone treatments after the federal government threatened to pull its funding.</description>
+      <dc:creator>Joseph Goldstein</dc:creator>
+      <pubDate>Mon, 02 Mar 2026 22:55:39 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Transgender</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Attorneys General</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Teenagers and Adolescence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Youth</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Discrimination</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Federal Aid (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hospitals</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Gender</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hormones</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">New York University Langone Health</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">New York University Langone Medical Center</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Federal Bureau of Investigation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Federal Trade Commission</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Manhattan (NYC)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York State</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/03/02/multimedia/02met-transgender-nyu-fjgl/02met-transgender-nyu-fjgl-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Heather Khalifa/Associated Press</media:credit>
+      <media:description>Demonstrators rallied at NYU Langone Health in February 2025 demanding that the hospital commit to providing services to transgender adolescents.</media:description>
+    </item>
+    <item>
+      <title>As Kennedy Turns From Vaccines, MAHA Allies See a ‘Betrayal’</title>
+      <link>https://www.nytimes.com/2026/03/02/health/kennedy-maha-vaccines.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/03/02/health/kennedy-maha-vaccines.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/03/02/health/kennedy-maha-vaccines.html" rel="standout"></atom:link>
+      <description>As the midterm elections approach, the health secretary is focusing on “real food.” Anger is rising among some of his supporters.</description>
+      <dc:creator>Benjamin Mueller</dc:creator>
+      <pubDate>Mon, 02 Mar 2026 21:30:57 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Vaccination and Immunization</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Drugs (Pharmaceuticals)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Rumors and Misinformation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Medicine and Health</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Diet and Nutrition</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Children and Childhood</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Liability for Products</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Influenza</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Polls and Public Opinion</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Autism</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Doctors</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Centers for Disease Control and Prevention</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Children&#39;s Health Defense</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Food and Drug Administration</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Health and Human Services Department</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Republican Party</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kennedy, Robert F Jr</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2025/12/05/multimedia/00hs-antivax-pqbj/00hs-antivax-pqbj-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Callaghan O&#39;Hare for The New York Times</media:credit>
+      <media:description>Derrick Wynne was discharged from the Army for refusing a Covid shot. “He was using our movement to gain a huge amount of traction,” he said of Robert F. Kennedy, Jr.</media:description>
+    </item>
+    <item>
+      <title>States Move to Limit Access to H.I.V. Treatment</title>
+      <link>https://www.nytimes.com/2026/03/02/health/hiv-drugs-ryan-white.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/03/02/health/hiv-drugs-ryan-white.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/03/02/health/hiv-drugs-ryan-white.html" rel="standout"></atom:link>
+      <description>Citing rising costs and shortfalls in federal support, about 20 states are toughening eligibility requirements for patients in drug assistance programs.</description>
+      <dc:creator>Apoorva Mandavilli</dc:creator>
+      <pubDate>Mon, 02 Mar 2026 16:57:08 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">your-feed-science</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Acquired Immune Deficiency Syndrome</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Health Insurance and Managed Care</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">States (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Medicaid</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Drugs (Pharmaceuticals)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Disease Rates</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Insurance</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Medicine and Health</category>
+      <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/03/02/multimedia/02hs-hiv-kvlg/02hs-hiv-kvlg-mediumSquareAt3X-v2.jpg" width="1800"></media:content>
+      <media:credit>Laura Bargfeld/Associated Press</media:credit>
+      <media:description>This week, thousands of Floridians were cut off from benefits that make H.I.V. medications more affordable. The medication Biktarvy was also dropped from Florida’s formulary.</media:description>
+    </item>
+    <item>
+      <title>America’s Billionaires Continue to Flock to Wyoming</title>
+      <link>https://www.nytimes.com/2026/03/02/us/billionaire-boom-jackson-teton-wyoming.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/03/02/us/billionaire-boom-jackson-teton-wyoming.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/03/02/us/billionaire-boom-jackson-teton-wyoming.html" rel="standout"></atom:link>
+      <description>Jackson, Wyo., has long been a refuge for the rich. But the last five years saw a boom in wealth of a kind never before seen. Across the country, the 2017 tax cuts minted hundreds of new billionaires.</description>
+      <dc:creator>Katie Benner, Steven Rich, Mike Baker, John Branch and Will Warasila</dc:creator>
+      <pubDate>Mon, 02 Mar 2026 22:04:00 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Income Inequality</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Taxation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Tax Cuts and Jobs Act (2017)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">High Net Worth Individuals</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Income Tax</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Income</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Friess, Foster S</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Musk, Elon</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Ricketts, J Joe</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Jackson (Wyo)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Jackson Hole (Wyo)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Wyoming</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/03/03/multimedia/0303-BILLIONAIRE-BOOM-print1/00nat-billionaire-boom-lwjp-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Will Warasila for The New York Times</media:credit>
+      <media:description>Jackson, Wyo. Teton County is both the richest county in America and a place that in some areas is struggling to maintain basic services.</media:description>
+    </item>
+    <item>
+      <title>Seven Takeaways From the Clintons’ Epstein Depositions</title>
+      <link>https://www.nytimes.com/2026/03/02/us/politics/clinton-bill-hillary-epstein-deposition-video.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/03/02/us/politics/clinton-bill-hillary-epstein-deposition-video.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/03/02/us/politics/clinton-bill-hillary-epstein-deposition-video.html" rel="standout"></atom:link>
+      <description>Former Secretary of State Hillary Clinton was defiant. Former President Bill Clinton spoke of President Trump’s ties to Epstein. A Republican raised a conspiracy theory.</description>
+      <dc:creator>Annie Karni and Michael Gold</dc:creator>
+      <pubDate>Tue, 03 Mar 2026 04:06:30 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Sex Crimes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Rumors and Misinformation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Conspiracy Theories</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Boebert, Lauren</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Clinton, Bill</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Clinton, Hillary Rodham</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Comer, James R</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Mace, Nancy</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/03/02/multimedia/02dc-clinton-qfzt/02dc-clinton-qfzt-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Hiroko Masuike/The New York Times</media:credit>
+      <media:description>Hillary Clinton speaking to reporters after her closed-door deposition before the House Oversight Committee, as part of its investigation into Jeffrey Epstein, in Chappaqua, N.Y.</media:description>
+    </item>
+    <item>
+      <title>Investigators Examine Iran War as Possible Motive in Austin Shooting</title>
+      <link>https://www.nytimes.com/2026/03/02/us/austin-shooting-investigation.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/03/02/us/austin-shooting-investigation.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/03/02/us/austin-shooting-investigation.html" rel="standout"></atom:link>
+      <description>The shooting happened about 26 hours after the United States and Israel attacked Iran. Officials identified the three who died in the shooting.</description>
+      <dc:creator>Thomas Fuller</dc:creator>
+      <pubDate>Tue, 03 Mar 2026 02:42:23 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Bars and Nightclubs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Attacks on Police</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Murders, Attempted Murders and Homicides</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Diagne, Ndiaga (1973- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Austin (Tex)</category>
+      <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/03/02/multimedia/02nat-austin-shooter-1-cjpq/02nat-austin-shooter-1-cjpq-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Ricardo B. Brazziell/Austin American-Statesman, via Associated Press</media:credit>
+      <media:description>Law enforcement officers near the scene of the shooting on Sunday in Austin.</media:description>
+    </item>
+    <item>
+      <title>Texas Tech Student Identified as One of the Victims in Austin Shooting</title>
+      <link>https://www.nytimes.com/2026/03/02/us/austin-bar-shooting-victims.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/03/02/us/austin-bar-shooting-victims.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/03/02/us/austin-bar-shooting-victims.html" rel="standout"></atom:link>
+      <description>Ryder Harrington, 19, Savitha Shan, 21, and Jorge Pederson, 30, were confirmed dead by officials on Monday. The shooting is being investigated as a possible act of terrorism.</description>
+      <dc:creator>Sonia A. Rao, Lina Fisher and Ramón Ramirez</dc:creator>
+      <pubDate>Tue, 03 Mar 2026 02:54:24 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Terrorism</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Austin (Tex)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">University of Texas at Austin</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mass Shootings</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Diagne, Ndiaga (1973- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Buford&#39;s Backyard Beer Garden (Austin, Tex)</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/03/02/multimedia/02nat-austin-victims-wjtb/02nat-austin-victims-wjtb-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Tova Katzman for The New York Times</media:credit>
+      <media:description>A shooting occurred at Buford’s, a popular bar near the University of Texas at Austin campus, early on Sunday.</media:description>
+    </item>
+    <item>
+      <title>Under Pressure from Trump, Cuban Leader Calls for ‘Urgent’ Economic Change</title>
+      <link>https://www.nytimes.com/2026/03/02/world/americas/cuba-economy-change-communism.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/03/02/world/americas/cuba-economy-change-communism.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/03/02/world/americas/cuba-economy-change-communism.html" rel="standout"></atom:link>
+      <description>President Miguel Díaz-Canel said the private sector needed more autonomy, as the island confronts a U.S. oil blockade that has deepened a humanitarian crisis.</description>
+      <dc:creator>Luis Ferré-Sadurní and David C. Adams</dc:creator>
+      <pubDate>Tue, 03 Mar 2026 03:39:32 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Economic Conditions and Trends</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/04/02/multimedia/02INT-CUBA-czlg/02INT-CUBA-czlg-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Pool photo by Adalberto Roque</media:credit>
+      <media:description>President Miguel Díaz-Canel of Cuba, center, at a funeral in January for those killed in U.S. strikes on Venezuela.</media:description>
+    </item>
+    <item>
+      <title>When ‘Anora’ Becomes ‘Anorak’: The Art of Wrong Movie Titles</title>
+      <link>https://www.nytimes.com/2026/03/02/movies/wrong-movie-titles.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/03/02/movies/wrong-movie-titles.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/03/02/movies/wrong-movie-titles.html" rel="standout"></atom:link>
+      <description>Staffers at Film at Lincoln Center keep a list of the incorrect movie titles they’ve heard from patrons. That list is very, very long.</description>
+      <dc:creator>Matthew Huff and Tala Safie</dc:creator>
+      <pubDate>Mon, 02 Mar 2026 10:01:03 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Movies</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Anora (Movie)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Anatomy of a Fall (Movie)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">A River Runs Through It (Movie)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Bend It Like Beckham (Movie)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Between the Temples (Movie)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Corsage (Movie)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Eephus (Movie)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">EO (Movie)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Everything Everywhere All at Once (Movie)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Father Mother Sister Brother (Movie)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Hard Truths (Movie)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">In the Mood for Love (Movie)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">It Was Just an Accident (Movie)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">May December (Movie)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">The Beguiled (Movie)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">The Namesake (Movie)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">The Shrouds (Movie)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">vis-design</category>
+    </item>
+    <item>
+      <title>Trump Was Never Antiwar</title>
+      <link>https://www.nytimes.com/2026/03/02/opinion/trump-iran-antiwar.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/03/02/opinion/trump-iran-antiwar.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/03/02/opinion/trump-iran-antiwar.html" rel="standout"></atom:link>
+      <description>Trump’s foreign policy has often been less a repudiation of neoconservatism than a mutation of it.</description>
+      <dc:creator>Michelle Goldberg</dc:creator>
+      <pubDate>Tue, 03 Mar 2026 00:00:04 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Republican Party</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Conservatism (US Politics)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
+      <media:content height="1752" medium="image" url="https://static01.nyt.com/images/2026/03/02/multimedia/02goldberg-lvhw/02goldberg-lvhw-mediumSquareAt3X.jpg" width="1752"></media:content>
+      <media:credit>Tierney L. Cross/The New York Times</media:credit>
+    </item>
+    <item>
+      <title>Americans Need to Know More About The Iran Attacks</title>
+      <link>https://www.nytimes.com/2026/03/02/opinion/international-world/iran-hegseth-war.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/03/02/opinion/international-world/iran-hegseth-war.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/03/02/opinion/international-world/iran-hegseth-war.html" rel="standout"></atom:link>
+      <description>The American public has received too little information to effectively judge the goals and objectives of the largest U.S. military operation in the Middle East in a generation.</description>
+      <dc:creator>W.J. Hennigan</dc:creator>
+      <pubDate>Mon, 02 Mar 2026 21:36:13 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Defense Department</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Hegseth, Pete</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Joint Chiefs of Staff</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/03/02/multimedia/02-Hennigan-vghj/02-Hennigan-vghj-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Photo Illustration by Damon Winter/The New York Times</media:credit>
+    </item>
+    <item>
+      <title>Trump Foresees an Extended War</title>
+      <link>https://www.nytimes.com/2026/03/02/briefing/trump-iran-long-war-primary-election-season.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/03/02/briefing/trump-iran-long-war-primary-election-season.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/03/02/briefing/trump-iran-long-war-primary-election-season.html" rel="standout"></atom:link>
+      <description>Also, how the U.S. decided to strike Iran. Here’s the latest at the end of Monday.</description>
+      <dc:creator>Matthew Cullen</dc:creator>
+      <pubDate>Mon, 02 Mar 2026 22:56:59 +0000</pubDate>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/03/02/multimedia/02evening-nl-iran-lede-bkjt/02evening-nl-iran-lede-bkjt-mediumSquareAt3X-v2.jpg" width="1800"></media:content>
+      <media:credit>Arash Khamooshi for The New York Times</media:credit>
+      <media:description>The Gandhi Hospital in Tehran today.</media:description>
+    </item>
+    <item>
+      <title>U.S. Slaps Sanctions on Rwanda, Saying It Sabotaged Trump Peace Deal</title>
+      <link>https://www.nytimes.com/2026/03/02/world/africa/rwanda-sanctions-trump-peace-m23.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/03/02/world/africa/rwanda-sanctions-trump-peace-m23.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/03/02/world/africa/rwanda-sanctions-trump-peace-m23.html" rel="standout"></atom:link>
+      <description>Rwanda’s government responded by claiming the sanctions unjustly targeted only one party to the conflict and misrepresented the facts.</description>
+      <dc:creator>Matthew Mpoke Bigg</dc:creator>
+      <pubDate>Mon, 02 Mar 2026 23:24:19 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Peace Process</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Embargoes and Sanctions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">War Crimes, Genocide and Crimes Against Humanity</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Conflict Minerals and Resources</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Metals and Minerals</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Human Rights and Human Rights Violations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">March 23 Movement</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Treasury Department</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">United Nations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kagame, Paul</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Africa</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Congo, Democratic Republic of (Congo-Kinshasa)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Rwanda</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/03/02/multimedia/02int-rwanda-sanctions-01-khlq/02int-rwanda-sanctions-01-khlq-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Doug Mills/The New York Times</media:credit>
+      <media:description>President Trump, President Paul Kagame of Rwanda, center, and President Felix Tshisekedi of the Democratic Republic of Congo participate in a signing ceremony at the Institute of Peace in Washington in December 2025.</media:description>
+    </item>
+    <item>
+      <title>Your Closest Forest Gets Lit Up by a Hidden Purple Glow</title>
+      <link>https://www.nytimes.com/2026/03/02/science/trees-glowing-st-elmos-fire.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/03/02/science/trees-glowing-st-elmos-fire.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/03/02/science/trees-glowing-st-elmos-fire.html" rel="standout"></atom:link>
+      <description>Research shows that a phenomenon called St. Elmo’s Fire, which occurs during thunderstorms, may be much more common than previously understood.</description>
+      <dc:creator>Annie Roth</dc:creator>
+      <pubDate>Mon, 02 Mar 2026 22:11:59 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Forests and Forestry</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Trees and Shrubs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Lightning</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Research</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Geophysical Research Letters (Journal)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">your-feed-science</category>
+    </item>
+    <item>
+      <title>Blood Moon Total Lunar Eclipse 2026: Time and Visibility Guide</title>
+      <link>https://www.nytimes.com/2026/03/02/science/blood-moon-lunar-eclipse-time-when-tonight.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/03/02/science/blood-moon-lunar-eclipse-time-when-tonight.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/03/02/science/blood-moon-lunar-eclipse-time-when-tonight.html" rel="standout"></atom:link>
+      <description>Earth’s shadow will temporarily drape the moon in a copper hue before sunrise on Tuesday.</description>
+      <dc:creator>Katrina Miller</dc:creator>
+      <pubDate>Mon, 02 Mar 2026 20:45:12 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Eclipses</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Moon</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Space and Astronomy</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/03/02/multimedia/02hs-blood-moon-ghfj/02hs-blood-moon-ghfj-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Jiji Press/Agence France-Presse — Getty Images</media:credit>
+      <media:description>To best view the phenomenon, NASA recommends finding a dark place away from bright lights. </media:description>
+    </item>
+    <item>
+      <title>Half of Colorectal Cancer Cases Now Occur in Those Under 65, Study Shows</title>
+      <link>https://www.nytimes.com/2026/03/02/well/colorectal-cancer-young.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/03/02/well/colorectal-cancer-young.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/03/02/well/colorectal-cancer-young.html" rel="standout"></atom:link>
+      <description>It isn’t clear what’s driving the shift, but scientists suspect that environmental exposures may be partially to blame.</description>
+      <dc:creator>Nina Agrawal</dc:creator>
+      <pubDate>Mon, 02 Mar 2026 12:00:02 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Colon and Colorectal Cancer</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hospitals</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cancer</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Age, Chronological</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Research</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/02/28/well/2Well-Colorectal-Cancers/2Well-Colorectal-Cancers-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Deanna Donegan/The New York Times; Photographs by Getty</media:credit>
+    </item>
+  </channel>
+</rss>
