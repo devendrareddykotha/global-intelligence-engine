@@ -1,11 +1,18 @@
+# Local database and runtime data
+data/
+*.sqlite3
+*.sqlite3-shm
+*.sqlite3-wal
+
+# Python environments
 .venv/
 .venv_old/
-__pycache__/
-.pytest_cache/
+
+# Secrets
 .env
+.env.*
+
+# Python cache and test artifacts
+__pycache__/
 *.py[cod]
-*.log
-*.log.*
-data/*.sqlite3
-data/*.sqlite3-shm
-data/*.sqlite3-wal
+.pytest_cache/
